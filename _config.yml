@@ -1,0 +1,57 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://fakeharxy.github.io'
+baseurl: ''
+title: 'Harx: bits and pieces'
+description: 'A repository for bits of writing that for some reason, I want public.'
+permalink: pretty
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: harx
+  url: /
+- title: all
+  url: /blog/
+- title: categories
+  url: /categories/
+- title: about
+  url: /about/
+
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
+
+# Collections
+collections:
+  posts:
+    output: true
+    feature_image: "/img/background-image.png"
