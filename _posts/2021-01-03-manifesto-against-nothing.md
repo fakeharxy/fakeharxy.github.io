@@ -65,7 +65,8 @@ It looks a little like this:
 
 Two hours later you are in the void of **Nothing**. Task A is not done, but worse, the film is unwatched, the tiger is undrawn and the kitchen is untidied. As a quick aside, phones are the harbingers, the patron saints of **Nothing**. They are a box of **Nothing** that society all but mandates you carry with you at all times.
 
-So here is my personal Manifesto against Nothing. Yours will be different:
+So here is my personal Manifesto against Nothing. You may not agree with any or all of it. It is very much suited to me.
+
 1. I will be aware of what I am doing. I will write down everything I want to do, even fun things. If I want to do it, there should be no reason I do not do it.
 
 
