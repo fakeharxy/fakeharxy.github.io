@@ -41,6 +41,8 @@ navigation_header:
 - title: about
   url: /about/
 
+google_analytics: 'G-QFJQD1LLYJ'
+
 navigation_footer:
 - title: Back to top
   url: "#top"
