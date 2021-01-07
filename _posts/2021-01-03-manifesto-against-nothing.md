@@ -67,16 +67,16 @@ Two hours later you are in the void of **Nothing**. Task A is not done, but wors
 
 So here is my personal Manifesto against Nothing. You may not agree with any or all of it. It is very much suited to me.
 
-1. I will be aware of what I am doing. I will write down everything I want to do, even fun things. If I want to do it, there should be no reason I do not do it.
+> 1. I will be aware of what I am doing. I will write down everything I want to do, even fun things. If I want to do it, there should be no reason I do not do it.
 
 
-2. I will avoid any product that incorporates infinite scrolling. Infinite scrolling is the **Nothing** whirlpool, the heart of browsing without purpose, the maggot in the apple of the internet. For me, this means Facebook, Instagram, and especially Reddit is gone.
+> 2. I will avoid any product that incorporates infinite scrolling. Infinite scrolling is the **Nothing** whirlpool, the heart of browsing without purpose, the maggot in the apple of the internet. For me, this means Facebook, Instagram, and especially Reddit is gone.
 
 
-3. When a task is hard, I will recognise and acknowledge the call of **Nothing**. Every time I open a new tab, or pick up my phone, I shall question if I am avoiding something, something I want to do. I will call **Nothing** what it is, and aim to fill my life with **Something**.
+> 3. When a task is hard, I will recognise and acknowledge the call of **Nothing**. Every time I open a new tab, or pick up my phone, I shall question if I am avoiding something, something I want to do. I will call **Nothing** what it is, and aim to fill my life with **Something**.
 
 
-4. When my brain is pleading with me to do anything else, if I cannot win the battle against procrastination, I will give it anything better than **Nothing**. A book, a videogame, a piece of paper to doodle on. After a few minutes, I'll consult my list of things I **want** to do.
+> 4. When my brain is pleading with me to do anything else, if I cannot win the battle against procrastination, I will give it anything better than **Nothing**. A book, a videogame, a piece of paper to doodle on. After a few minutes, I'll consult my list of things I **want** to do.
 
 
 And that's it. This is just for me, and is very specific to me, but if it helps anyone, I'm very glad.
