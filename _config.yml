@@ -21,8 +21,7 @@ plugins:
 
 # Site settings
 url: 'https://fakeharxy.github.io'
-baseurl: ''
-title: 'Harx: bits and pieces'
+title: 'harx'
 description: 'A repository for bits of writing that for some reason, I want public.'
 permalink: pretty
 
@@ -42,6 +41,10 @@ navigation_header:
   url: /about/
 
 google_analytics: 'G-QFJQD1LLYJ'
+
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/favicon-16x16.png'
+  32: '/assets/logos/favicon-32x32.png'
 
 navigation_footer:
 - title: Back to top
