@@ -3,6 +3,7 @@ layout: post
 title: The Nothing Manifesto
 categories:
 - productivity
+feature_image: "/img/nothing.png"
 ---
 
 I've been thinking a lot recently (new year and all) about seeing if there is anything I can do to limit the amount of **Nothing** I've been doing. Maybe limiting it to zero.
