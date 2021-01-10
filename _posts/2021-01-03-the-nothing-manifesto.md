@@ -1,27 +1,25 @@
 ---
 layout: post
-title: Manifesto against Nothing
+title: The Nothing Manifesto
 categories:
 - productivity
 ---
 
 I've been thinking a lot recently (new year and all) about seeing if there is anything I can do to limit the amount of **Nothing** I've been doing. Maybe limiting it to zero.
 
-By **Nothing** in this context I mean unplanned, unconstructive procrastination. Wanting to do something but instead doing **Nothing**.
+Specifically by **Nothing** I mean unplanned, unconstructive procrastination. Knowing you want to do something but instead doing **Nothing**.
 
 Doing **Nothing** is addictive and all-consuming. It's the emptiness that saps strength, the boredom that multiplies and self-perpetuates, the self-administered poison of the soul.
-
-**Nothing** in its essence is the absence of doing something you want to do. If you've ever woken up with the world at your feet, ready to pounce, only to endlessly watch Youtube, I'm afraid you were caught in peak **Nothing**.
 
 But before this all gets a bit didactic, let me stress something. Anything you actively want to do is not **Nothing**. This is not about judging how people live their lives. 
 
 **Nothing** can arise anywhere, but it has a few strongholds where it is particularly potent. You can quickly and easily find where **Nothing** resides in your life. You take a piece of paper, preferably in the morning, and you write what I like to call a _To Do_ list. Actually, let's call it a _Want To Do_ list. Yeah, that's closer to its true nature. Only one rule - and you might have already guessed it: you only write things down that you _want to do_.
 
-Sometimes you might say something like: Oh, I _have_ to wash the car. But you don't have to. The list of things you _have_ to do is vanishingly small: kids, pets, jury duty. You _want_ to wash the car, for some reason. Maybe you love driving a clean car? Point is, the things you _want_ to do are something. Everything else is most likely **Nothing**.
+A quick note about work here: it may feel like I am avoiding the topic. We all have work, and we all have things we **have** to do. This is sadly unavoidable. But, outside of work, I think most of the things we think we _have_ to do are actually things we _want_ to do. _Have_ to clean the car? No, you _want_ to clean the car. Maybe what you want is a clean car - it's still a want not a need. The distinction is important later.
 
-If it's not clear: include fun things on this list. Include anything that maybe you've wanted to do for a while. In the unusual case where there is something you **have** to do, write that down too, maybe put a star next to it.
+If it's not clear: include fun things on this list. Include anything that maybe you've wanted to do for a while. In the case you **have** to do something, write that down too, maybe put a star next to it.
 
-Ok, take a second, maybe a deep breath. Acknowledge that everything else on this list is something you _want_ to do. Why do you _want_ to do them?
+Ok, take a second, maybe a deep breath. Acknowledge that everything else on this list is something you _want_ to do. Why do you _want_ to do them? There is a reason, even if it's only "this is how I want to live my life".
 
 That's the thinking done. Do the things you want to do. You just wrote down that you _want_ to do them. No one forced you to. So do them.
 
